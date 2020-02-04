@@ -1,12 +1,18 @@
-# instagramhomework
+![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
+
 
 # CSS Instagram Homework
 
-## Introduction
+In module 1 at General Assembly, we explored HTML, CSS, Flexbox and Javascript. For this particular homework, we were tasked to replicate the Instagram homepage in desktop format and if we had time, to also explore responsive design for mobile and other devices. 
 
-One of the best ways to sharpen your CSS skills is to try to recreate an existing style and layout, so we're going to have a go at building our own version of Instagram. Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
+With little experience using flexbox, this was my attempt after spending 2 hours that same evening: 
 
-There's a bit of starter code, so you can jump right into it.
+<img src='https://i.imgur.com/v5u8WPt.png' alt='screenshot of homework'/>
+
+<img src='https://i.imgur.com/F20q57r.png' alt='screenshot of homework'/>
+
+I was proud of what I had achieved, but also felt rather disheartened at myself for not being able to complete the desktop version in time.   
+
 
 ## Exercise
 
@@ -31,10 +37,6 @@ There's a bit of starter code, so you can jump right into it.
   - App Store and Google Play links
   - Instagram logo
 
-
-#### Starter code
-
-The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and the color palette is in `style.css`. A Google font similar to the Instagram font has been linked in the head of the `index.html`, and has been applied to the body and inputs. It is up to you whether or not you want to include Normalize CSS or Reset CSS.
 
 #### Deliverable
 
