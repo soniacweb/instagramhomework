@@ -1,0 +1,79 @@
+/*background color = #fafafa*/
+/*button blue = #3897f0*/
+/*border color = #e6e6e6*/
+/*footer link color = #003569*/
+/*text grey color = #999*/
+
+body, input {
+font-family: 'Karla', sans-serif;
+height: 100%;
+text-align: center;
+margin: 0 auto;
+}
+
+input {
+height:25px;
+width: 300px;
+margin: 5px;
+padding: 3px;
+
+}
+body {
+  background: #fafafa;
+}
+
+section p {
+  font-weight: bold;
+}
+
+
+.Logo {
+  margin: 10px;
+}
+
+.box-1 {
+  border: 1px solid #e6e6e6;
+  margin: 40px;
+  padding: 20px;
+  background: white;
+}
+
+.box-2 {
+  border: 1px solid #e6e6e6;
+  margin: 0 auto;
+  background: white;
+  width: 300px;
+  display: block;
+  text-align: center;
+}
+
+.button-1 {
+  font-size: 20px;
+  font-weight: 10px;
+  color: white;
+  background: #3897f0;
+  margin: 20px 30px;
+  border-radius: 3px;
+  padding: 4px;
+  width: 300px;
+  height: 55px;
+
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+margin-right: 10px;
+margin-left: 10px;
+}
+
+@media only screen and (max-width: 850px) {
+#phone-img {
+  display: none;
+}
+
+}
